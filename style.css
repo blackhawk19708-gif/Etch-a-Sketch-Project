@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(211, 209, 176);
+    color: rgb(22, 22, 22);
+    font-family:'DM Sans', sans-serif;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1 {
+    font-size: 1.5rem;
+}
+
+.container {
+    width: 560px;
+    height: 560px;
+    background-color: rgb(160, 151, 135);
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.grid-cell {
+    background-color: gray;
+    border: 1px solid white;
+    
+}
+
+.buttons {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 560px;
+
+}
