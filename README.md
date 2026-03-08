@@ -17,7 +17,7 @@ A simple sketchpad projects built using basic HTML, CSS and Javascript
 - Resize on demand
 - Clear button
 
-[Veiw it live](https://blackhawk19708-gif.github.io/Etch-a-Sketch-Project/)
+[View it live](https://blackhawk19708-gif.github.io/Etch-a-Sketch-Project/)
 
 
 Made by Max
